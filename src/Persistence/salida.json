@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "author": "Gabriel Garcia Marquez",
+    "title": "Cien años de Soledad",
+    "genre": "Narrativo",
+    "pages": 471,
+    "language": "Español"
+  },
+  {
+    "id":2,
+    "author":"Miguel De Cervantes",
+    "title":"Don Quijote de la Mancha",
+    "genre":"Narrativo",
+    "pages":566,
+    "language":"Español"
+  },
+  {
+    "id":3,
+    "author":"William Shakespeare",
+    "title":"Hamlet",
+    "genre":"Crimen",
+    "pages":644,
+    "language":"Ingles"
+  },
+  {
+    "id":4,
+    "author":"Vladimir Nabokov",
+    "title":"Lolita",
+    "genre":"Crimen",
+    "pages":500,
+    "language":"Español"
+
+  },
+  {
+    "id":5,
+    "author":"Julio Verne",
+    "title":"20000 Leguas de Viaje Submarino",
+    "genre":"Fantasia",
+    "pages":620,
+    "language":"Ingles"
+
+  },
+  {
+    "id":6,
+    "author":"Julio Verne",
+    "title":"Viaje al Centro de la Tierra",
+    "genre":"Fantasia",
+    "pages":700,
+    "language":"Español"
+  },
+  {
+    "id":7,
+    "author":"Julio Verne",
+    "title":"De la Tierra a la luna",
+    "genre":"Fantasia",
+    "pages":650,
+    "language":"Ingles"
+  },
+  {
+    "id":8,
+    "author":"Gabriel Garcia Marquez",
+    "title":"El coronel No tiene quien le escriba",
+    "genre":"Novela",
+    "pages":540,
+    "language":"Español"
+  },
+  {
+    "id":9,
+    "author":"Herman nelville",
+    "title":"Moby Dick",
+    "genre":"Novela",
+    "pages":950,
+    "language":"Español"
+  },
+  {
+    "id":10,
+    "author":"franz Kafka",
+    "title":"el proceso Fafka",
+    "genre":"Novela",
+    "pages":400,
+    "language":"Español"
+  },
+  {
+    "id":11,
+    "author":"franz Kafka",
+    "title":"La metamorfosis",
+    "genre":"Fantasia",
+    "pages":700,
+    "language":"Ingles"
+  },
+  {
+    "id":12,
+    "author":"Oscar wilde",
+    "title":"El ruido y la furia",
+    "genre":"Terror",
+    "pages":680,
+    "language":"Ingles"
+},
+{
+  "id":13,
+  "author":"Stephen King",
+  "title":"La tienda",
+  "genre":"Terror",
+  "pages":750,
+  "language":"Ingles"
+
+},
+{
+  "id":14,
+  "author":"Emilio Carrere",
+  "title":"La torre de los siete jorobados",
+  "genre":"Narrativo",
+  "pages":890,
+  "language":"Español"
+
+},
+{
+  "id":15,
+  "author":"Clive Barker",
+  "title":"Libros de Sangre",
+  "genre":"Terror",
+  "pages":600,
+  "language":"Español"
+}
+
+]

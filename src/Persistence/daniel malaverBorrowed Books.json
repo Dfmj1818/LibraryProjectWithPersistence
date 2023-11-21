@@ -1,0 +1,18 @@
+[
+  {
+    "id": 15,
+    "author": "Clive Barker",
+    "title": "Libros de Sangre",
+    "genre": "Terror",
+    "pages": 600,
+    "language": "Español"
+  },
+  {
+    "id": 14,
+    "author": "Emilio Carrere",
+    "title": "La torre de los siete jorobados",
+    "genre": "Narrativo",
+    "pages": 890,
+    "language": "Español"
+  }
+]
